@@ -4,9 +4,9 @@ This tenant was designed to simulate a Microsoft 365 environment focused on endp
 
 The objective was to implement scalable user management, automated device provisioning, controlled privilege assignment, and a structured collaboration architecture.
 
-## Identity & Access Administration
+## IAM
 
-Identity architecture was implemented using:
+Identity Access Management implemented with:
 
 -Department-based security groups
 
@@ -34,7 +34,7 @@ Identity architecture was implemented using:
 
 -All corporate devices must meet compliance standards prior to accessing Microsoft 365 resources.
 
-## Application & Update Management
+## Application Deployment/Management
 
 -Application lifecycle is managed via Intune using:
 
