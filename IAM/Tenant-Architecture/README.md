@@ -15,5 +15,6 @@ Dynamic membership used to automate user to group assignment based upon the "DEP
 Department-based groups use attribute-based rules:
 (Department equals "Executive")
 #### Administrative exceptions
-Global admin and break-glass(emergency global admin account) have their own security groups. They are excluded from ALL-EMP-SG with special dynamic membership rules.
-
+Global admin and break-glass(emergency global admin account) have their own security groups. All global admins are excluded from ALL-EMP-SG with special dynamic membership rules.
+## License Allocaton
+Group-based license allocation for automatic licensing. Ensures that all employees are assigned the correct license through the ALL-EMP security group; Dynamic memebership of all employee security group ensures the exclusion of global admins
