@@ -15,5 +15,5 @@ Dynamic membership used to automate user to group assignment based upon the "DEP
 Department-based groups use attribute-based rules:
 (Department equals "Executive")
 #### Administrative exceptions
-Admin and break-glass(emergency admin account) are excluded from dynamic group memberhsip. They use static membership to prevent unintended privilege propogation
+Global admin and break-glass(emergency global admin account) have their own security groups. They are excluded from ALL-EMP-SG with special dynamic membership rules.
 
