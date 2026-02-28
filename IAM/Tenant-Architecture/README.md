@@ -6,7 +6,7 @@ Identity model is structured around department-based security groups and dynamic
 ## Department-based Security Groups
 Security groups are created for each business department to enforce RBAC principles and reduce direct user-level permission assignments.
 ### Naming convention
-Groups follow standardized naming format
+Groups follow standardized naming format;
 Examples: EXEC-SG, FIN-SG, HR-SG
 Naming convention improves clarity and administrative consistency
 ## Dynamic Membership Rules
