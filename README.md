@@ -1,6 +1,6 @@
 ## Purpose
 
-This tenant was designed to simulate a Microsoft 365 environment focused on endpoint management, identity governance, and secure collaboration.
+Tenant was designed to simulate a Microsoft 365 environment focused on endpoint management, identity governance, and secure collaboration.
 
 The objective was to implement scalable user management, automated device provisioning, controlled privilege assignment, and a structured collaboration architecture.
 
