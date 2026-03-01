@@ -5,10 +5,12 @@ This section documents the identity design of the tenant, including department s
 Identity model is structured around department-based security groups and dynamic membership rules to ensure consistent access control
 ## Department-based Security Groups
 Security groups are created for each business department to enforce RBAC principles and reduce direct user-level permission assignments.
-### Naming convention
+###  Group Naming convention
 Groups follow standardized naming format;
 Examples: EXEC-SG, FIN-SG, HR-SG
 Naming convention improves clarity and administrative consistency
+### User Naming convention
+Users follow standard naming convention: Example: nina.patel@jakeslearning.onmicrosoft.com
 ## Dynamic Membership Rules
 Dynamic membership used to automate user to group assignment based upon the "DEPARTMENT" attribute in Entra.
 ### Rule Logic Example
