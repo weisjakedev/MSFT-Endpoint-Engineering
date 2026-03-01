@@ -8,10 +8,9 @@ Tenant manually onboards and offboards users. Since this is a small scale busine
     2. Assign department name correctly ** Check dynamic membership rules for employees security group**
     3. Manager assigned
     4. User is Created
-    5. Check if MFA enforced **user is automatically assigned to CA policy; Check just in case**
-    6. License is automatically assigned through dynamic membership; Check just in case
-    7. Temporary password securely stored, and transmitted to employee via email
-    8. Documented in ticket system
+    5. License is automatically assigned through dynamic membership; Check just in case
+    6. Temporary password securely stored, and transmitted to employee via email
+    7. Documented in ticket system
 
   ## Offboarding Checklist
     1. Sign-in blocked immediately
