@@ -21,9 +21,11 @@ Identity Access Management implemented with:
 
 -Conditional Access policies enforcing MFA and device compliance
 
--All administrative privileges are assigned as eligible and require approval for elevation.
+- Onboarding & Offboarding protocols
 
-## Endpoint Management Architecture
+- Break-Glass Emergency Recovery Account
+
+## Intune Endpoint Architecture
 
 -Devices are managed using:
 
@@ -63,9 +65,9 @@ Identity Access Management implemented with:
 
 -Sensitive communications are restricted through RBAC and site-level permission controls.
 
-## Monitoring & Administrative Controls
+## Security & Monitoring
 
--Administrative and identity events are monitored through:
+-Administrative and identity events are monitored via sentinel:
 
 -Sign-in log review
 
@@ -73,6 +75,5 @@ Identity Access Management implemented with:
 
 -Privileged elevation tracking
 
--Policy change tracking
 
 All logs are accounted for and high-risk security threats such as prviiege elevation are traceable within the tenant.
