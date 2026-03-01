@@ -1,11 +1,12 @@
+# Organization of this lab
+All Major sections of this lab are listed below. Each of the sections below are divided into subfolders for each policy. Within each subfolder you will find a README.me document with an overview of the architecture and the rationale behind it. You will also find subfolders named EVIDENCE which contain documentation of the configurations. You will also find a subfolder named VALIDATION where the policy is tested and confrmed as being functional; This folder is not present in all because in some there is no need for validation, or the lab is limited and validation is not possible.
 ## Purpose
 
 Tenant was designed to simulate a Microsoft 365 environment focused on endpoint management, identity governance, and secure collaboration.
 
 The objective was to implement scalable user management, automated device provisioning, controlled privilege assignment, and a structured collaboration architecture.
 
-# Organization of this lab
-All Major sections of this lab are listed below. Each of these sections are divided into subfolders for each policy. Within each subfolder you will find a README.me document with an overview of the architecture and the rationale behind it. You will also find subfolders named EVIDENCE which contain documentation of the configurations. You will also find a subfolder named VALIDATION where the policy is tested and confrmed as being functional; This folder is not present in all because in some there is no need for validation, or the lab is limited and validation is not possible.
+
 ## IAM
 
 Identity Access Management implemented with:
