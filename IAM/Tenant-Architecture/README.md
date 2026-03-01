@@ -17,4 +17,5 @@ Department-based groups use attribute-based rules:
 #### Administrative exceptions
 Global admin and break-glass(emergency global admin account) have their own security groups. All global admins are excluded from ALL-EMP-SG with special dynamic membership rules.
 ## License Allocaton
-Group-based license allocation for automatic licensing. Ensures that all employees are assigned the correct license through the ALL-EMP security group; Dynamic memebership of all employee security group ensures the exclusion of global admins
+Group-based license allocation for automatic licensing. Ensures that all employees are assigned the correct licenses through the ALL-EMP security group; Dynamic memebership of all employee security group ensures the exclusion of global admins
+
