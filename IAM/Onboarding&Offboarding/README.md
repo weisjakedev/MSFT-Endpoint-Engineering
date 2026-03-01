@@ -1,6 +1,6 @@
 # Onboarding and Offboarding
 ## Purpose
-This section highlights the Onboarding and Offboarding protocols of the tenant which includes data lifecycle management
+This section highlights the Onboarding and Offboarding protocols of this tenant which includes data lifecycle management
 ## Architecture Overview
 Tenant manually onboards and offboards users. Since this is a small scale business, Lifecycle Management in Entra ID Governance is not used unless the business scales up and needs to automate onboarding/offboarding.
 ## Onboarding checklist
@@ -13,10 +13,9 @@ Tenant manually onboards and offboards users. Since this is a small scale busine
     7. Documented in ticket system
 
   ## Offboarding Checklist
-    1. Sign-in blocked immediately
-    2. Active sessions revoked
-    3. Licenses removed
-    4. Remove user from all groups; Set department to null
+    1. Sign-in blocked immediately in admin center
+    2. Active sessions revoked in entra
+    3. Change department name to "null" to remove licenses and remove user from all groups
     5. Soft delete account
 
 ## Data Lifecycle Management For Offboarding
