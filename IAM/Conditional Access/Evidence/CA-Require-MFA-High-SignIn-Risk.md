@@ -1,8 +1,6 @@
 # Configuration
 
-## Users or agents
-
-## Resources
+## Users or agents & Target Resources
 
 <img width="870" height="665" alt="image" src="https://github.com/user-attachments/assets/e171b9cd-7843-4010-889f-64068f5222aa" />
 
