@@ -1,7 +1,7 @@
 # Conditional Access & SSO
 ## Purpose
 This section documents the conditional access policy implemented to enforce adaptive authentication and risk-based access control across the tenant.
-Policies evaluate identity signals such as user risk, sign-in risk, device compliance, and session context to determine whether access should be allowed, blocked, or require additional controls such as multi-factor authentication (MFA) or credential reset.
+Policies evaluate identity signals such as user risk, sign-in risk, device compliance, and session context to determine whether access should be allowed, blocked, or require additional controls such as MFA or credential reset.
 
 Session controls ensure authentication is periodically revalidated and that elevated risk conditions trigger reauthentication as required.
 ## Scope 
