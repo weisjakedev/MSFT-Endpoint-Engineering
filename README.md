@@ -39,6 +39,8 @@ Identity Access Management implemented with:
 
 -All corporate devices must meet compliance standards prior to accessing Microsoft 365 resources.
 
+-Staged update rings for patch validation
+
 ## Application Deployment/Management
 
 -Application lifecycle is managed via Intune using:
@@ -47,7 +49,6 @@ Identity Access Management implemented with:
 
 -Optional applications via Company Portal
 
--Staged update rings for patch validation
 
 -Controlled rollout strategy to minimize user disruption
 
