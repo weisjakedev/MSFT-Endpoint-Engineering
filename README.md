@@ -21,9 +21,9 @@ Identity Access Management implemented with:
 
 -Conditional Access policies enforcing MFA and device compliance
 
-- Onboarding & Offboarding protocols
+-Onboarding & Offboarding protocols
 
-- Break-Glass Emergency Recovery Account
+-Break-Glass Emergency Recovery Account
 
 ## Intune Endpoint Architecture
 
