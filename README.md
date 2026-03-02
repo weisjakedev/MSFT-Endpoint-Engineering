@@ -51,19 +51,15 @@ Identity Access Management implemented with:
 
 -Controlled rollout strategy to minimize user disruption
 
-## Teams Architecture: Collaboration & Governance
+## Collaboration & Governance
 
--Collaboration architecture includes:
+-Collaboration services structured using Microsoft Teams + SharePoint hub-based architecture 
 
--Microsoft Teams governance structure
+-Company hub site configured in SharePoint to serve as the primary collaboration entry point; Departmental Teams sites associated with the hub 
 
--SharePoint hub-and-spoke design
+-Teams space governed using group-based ownership models. T
 
--Group-based permission assignment
-
--Department-level access segmentation
-
--Sensitive communications are restricted through RBAC and site-level permission controls.
+-Private channels are used to enforce sensitive communication segmentation
 
 ## Security & Monitoring
 
