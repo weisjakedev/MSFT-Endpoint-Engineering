@@ -10,7 +10,7 @@ The objective is to ensure that only securely provisioned and policy-compliant d
 
 ### Zero-Touch Provisioning (Autopilot)
 
-Devices are provisioned using a conceptual Windows Autopilot deployment model to eliminate manual device configuration, enforce standard configuration at first sign-in, automatically enroll devices into Intune and Apply security baselines upon enrollment
+Devices are provisioned using a conceptual Windows Autopilot deployment model to eliminate manual device configuration, enforce standard configuration at first sign-in, automatically enroll devices into Intune and apply security baselines upon enrollment
 
 ### MDM Device Compliance & Configuration Policies
 Device compliance policies require:
