@@ -12,7 +12,7 @@ The objective is to ensure that only securely provisioned and policy-compliant d
 
 Devices are provisioned using a conceptual Windows Autopilot deployment model to eliminate manual device configuration, enforce standard configuration at first sign-in, automatically enroll devices into Intune and Apply security baselines upon enrollment
 
-### Device Compliance Enforcement
+### MDM Device Compliance & Configuration Policies
 Device compliance policies require:
 
 -BitLocker encryption enabled
