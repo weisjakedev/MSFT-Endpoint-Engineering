@@ -1,11 +1,20 @@
 # Application Deployment (Win 32)
 ## Purpose
-This section documents the protocols used to deploy, manage and update applications via Intune using a staged-rollout method.
-Lifecycle governance is the intent and the end result will be controlled deployment with reduced user diruption
+This section documents the packaging, deployment, lifecycle management, and staged rollout of Win32 applications using Intune.
 
 ## Architecture Overview
+Win32 applications are packaged as .intunewin files and deployed using a ring-based security group model.
 
-Application deployment follows a 2 phase model using entra security groups for staged installation of apps.
+1. Application packaged using Win32 content prep tool
+
+2. Uploaded to Intune
+
+3. Install/Uninstall commands defined
+
+4. Detection rules configured
+
+5. Assigned to staged Azure AD security groups
+
 
 ### Assignment Strategy
 2 security groups made:
