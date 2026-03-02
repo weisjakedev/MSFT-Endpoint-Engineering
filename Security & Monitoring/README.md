@@ -6,9 +6,9 @@ This section documents the security monitoring architecture used to detect and g
 Identity and administrative logs are centralized into a Log Analytics workspace and integrated with Microsoft Sentinel to enable real-time detection, incident creation, and audit review by security administrators.
 
 ## Architecture Overview
-Security telemetry from Microsoft Entra ID is forwarded to an Azure Log Analytics workspace via diagnostic settings in entra.
+Security telemetry from Entra ID is forwarded to an Azure Log Analytics workspace via diagnostic settings in entra.
 
-Microsoft Sentinel is connected to the workspace and uses scheduled KQL queries to detect high-risk events and generate security incidents.
+Sentinel is connected to the workspace and uses scheduled KQL queries to detect high-risk events and generate security incidents.
 
 Detection rules are implemented for:
 
