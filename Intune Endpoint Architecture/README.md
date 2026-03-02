@@ -32,5 +32,24 @@ Microsoft Defender security baseline is deployed to enforce recommended microsof
 
 All enrolled devices are onboarded into Microsoft Defender for Endpoint for continuous threat monitoring
 
+### Update Rings
+3-Tier update-ring policy implemented via intune to test the compatibility of patches before broad deployment.
+
+3 groups:
+1. Early Adopters (pilot;) includes IT security group
+
+- Deploys immediately
+- Used for compatibility testing
+
+2. Broad Deployment; All regular users except Finance and Executive security groups
+
+- Deploys after a week
+- Used for broad deployment after ring 1 validated
+
+3. Sensitive; Finance and Executive security groups
+
+- Deploys after 2 weeks
+- Used for maximum stability before patching critical users
+
 
 
