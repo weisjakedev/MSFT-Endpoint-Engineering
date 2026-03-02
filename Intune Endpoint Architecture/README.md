@@ -32,6 +32,5 @@ Microsoft Defender security baseline is deployed to enforce recommended microsof
 
 All enrolled devices are onboarded into Microsoft Defender for Endpoint for continuous threat monitoring
 
-### Conditional access 
-Only devices marked as MDM compliant in Intune are permitted access to microsoft 365 resources.
+
 
