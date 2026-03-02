@@ -39,7 +39,7 @@ Identity Access Management implemented with:
 
 -All corporate devices must meet compliance standards prior to accessing Microsoft 365 resources.
 
--Staged update rings for patch validation
+-Staged update rings for patch validation (Windows OS updates)
 
 ## Application Deployment/Management
 
@@ -48,7 +48,6 @@ Identity Access Management implemented with:
 -Required app deployments for business-critical software
 
 -Optional applications via Company Portal
-
 
 -Controlled rollout strategy to minimize user disruption
 
