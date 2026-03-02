@@ -3,7 +3,7 @@
 <img width="578" height="608" alt="image" src="https://github.com/user-attachments/assets/7f17be86-1c6c-4254-bc5b-e9a55f3c993f" />
 
 ## In Windows Defender
-Alert soc team of both Alerts & Vulnerabilities
+Alert soc team of Alerts & Vulnerabilities
 <img width="813" height="521" alt="image" src="https://github.com/user-attachments/assets/8b5f2359-5437-448d-b5a8-a351c99207c6" />
 
 ## In Intune
