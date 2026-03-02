@@ -51,7 +51,7 @@ Identity Access Management implemented with:
 
 -Controlled rollout strategy to minimize user disruption
 
-## Collaboration & Governance
+## Teams Architecture: Collaboration & Governance
 
 -Collaboration architecture includes:
 
