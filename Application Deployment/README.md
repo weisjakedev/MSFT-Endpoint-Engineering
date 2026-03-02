@@ -13,7 +13,7 @@ Win32 applications are packaged as .intunewin files and deployed using a ring-ba
 
 4. Detection rules configured
 
-5. Assigned to staged Azure AD security groups
+5. Assigned to staged Entra security groups
 
 
 ### Assignment Strategy
@@ -25,6 +25,7 @@ Win32 applications are packaged as .intunewin files and deployed using a ring-ba
    
 Apps are deployed as:
 1. Required (auto-install)
+   or
 2. Available (company portal)
 
 
